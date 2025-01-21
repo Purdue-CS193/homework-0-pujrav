@@ -3,6 +3,11 @@
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Raveesh's First CS193 Homework
+
+- I like how the instructors are people of a similar age which is a nice change since they have been in our places recently
+- I like how insturctive and detailed the slides are (they are easy to keep up with)
+- I like how the class does not eat up a lot of time from my other classes while still teaching me
 
 ### Markdown
 
@@ -11,12 +16,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Raveesh's First CS193 Homework
 ## Header 2
 ### Header 3
-Raveesh Pujari's own website YAY
-- Bulleted
-- List
+- I like how the instructors are people of a similar age which is a nice change since they have been in our places recently
+- I like how insturctive and detailed the slides are (they are easy to keep up with)
+- I like how the class does not eat up a lot of time from my other classes while still teaching me
 
 1. Numbered
 2. List
